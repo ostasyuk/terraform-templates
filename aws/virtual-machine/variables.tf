@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "instance_type" {
-  default = "mhhedium"
+  default = "mhhe56656dium"
 }
