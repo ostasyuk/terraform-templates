@@ -3,5 +3,5 @@ variable "region" {
 }
 
 variable "instance_type" {
-  default = "mhffffff56dium"
+  default = "medium"
 }
